@@ -3,7 +3,7 @@ To make prototypes of different pages with a simple configuration using react
 
 ## Installation
 ```sh
-  git clone https://github.com/MiguelSavignano/simple-react-pages/edit/master/README.md
+  git clone https://github.com/MiguelSavignano/simple-react-pages
   yarn install
   npm start
 ```
