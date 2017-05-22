@@ -1,12 +1,10 @@
 # React Pages
+To make prototypes of different pages with a simple configuration using react
 
-# Usage
+## Installation
 ```sh
+  git clone https://github.com/MiguelSavignano/simple-react-pages/edit/master/README.md
   yarn install
-```
-## Start the app
-
-```sh
   npm start
 ```
 
@@ -32,15 +30,15 @@ Create a html file in public folder (you can use subfolders)
 
 The name of the html file it's very important we need to create the same file in app views folder see example
 
-app
---views
-----users
-------profile.jsx
---landing.jsx
-public
---users
-----profile.html
---landig.html
+app<br />
+--views<br />
+----users<br />
+------profile.jsx<br />
+--landing.jsx<br />
+public<br />
+--users<br />
+----profile.html<br />
+--landig.html<br />
 
 ## Pass simple props to react page
 if you need pass some simple props to the react page
